@@ -85,34 +85,3 @@
  
 
 
-# class Human:
-#     def __init__(self,n,o):
-#         self.name=n
-#         self.occupation=o
-#     def do_work(self):
-#         if self.occupation=="Cricket Player":
-#             print (self.name,"Plays Cricket")
-#         elif self.occupation=="Actor":
-#             print (self.name,"Shootes a film")
-    
-#     def Speaks (self):
-#         print (self.name,"How are you?")
-
-# Hari=Human("Harish","Actor")
-# Hari.do_work()
-# Hari.Speaks()
-
-# Sree=Human("Sreenu","Cricket Player")
-# Sree.do_work()
-# Sree.Speaks()
-
-
-
-class person:
-    pass
-p1=person()
-p1.Name="Harish"
-p1.age=25
-
-print(p1.Name)
-print(p1.age)

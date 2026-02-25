@@ -7,9 +7,7 @@
 
 # Check if a number is even or odd.
 
-num=int(input("enter the number:"))
-my_str= ("num is even"),if (num%2==0)else,("num is odd")
-print (my_str)
+
 
 
 
