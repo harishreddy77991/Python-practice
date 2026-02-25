@@ -155,25 +155,25 @@
 # age=25
 # cust_order=[]
 
-def add_order(order_details):
-    pass 
+# def add_order(order_details):
+#     pass 
 
-def Calculate_total():
-    pass 
+# def Calculate_total():
+#     pass 
 
-class Customer:
-    def __init__(self):
-        pass
+# class Customer:
+#     def __init__(self):
+#         pass
 
-    def add_order(order_details):
-     pass
+#     def add_order(order_details):
+#      pass
 
-def Calculate_total():
-    pass 
+# def Calculate_total():
+#     pass 
 
-cust1=Customer("Harish","harish@gmail.com")
-cus2=Customer("sreenu","sreenu@gmail.com")
-cust3=Customer("vamsi","vamsi@gmail.com") 
+# cust1=Customer("Harish","harish@gmail.com")
+# cus2=Customer("sreenu","sreenu@gmail.com")
+# cust3=Customer("vamsi","vamsi@gmail.com") 
 
 # git changes
 # fecvfrvrf
