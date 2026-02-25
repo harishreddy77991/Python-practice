@@ -17,18 +17,18 @@
 # for i in range (len(li)):
 #     print (li[i])
 
-# while loop
+while loop
 
-# x=8
-# while x<=10:
-#     print(x)
-#     x+=1
+x=8
+while x<=10:
+    print(x)
+    x+=1
 
-# range(starting,ending,step)
+range(starting,ending,step)
 
-# num=int(input("Enter table :"))
-# for i in range(1,11,1):
-#     print(f"{num}*{i}={num*i}")
+num=int(input("Enter table :"))
+for i in range(1,11,1):
+    print(f"{num}*{i}={num*i}")
 
 
 
